@@ -1,2 +1,2 @@
 # Weather-App
-Making a minimal weather app using visual crossing api
+A minimal weather app using visual crossing api
